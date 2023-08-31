@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+<<<<<<< HEAD
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -26,3 +27,7 @@ If you are developing a production application, we recommend updating the config
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # ShoppingCartApp
+=======
+Shopping Cart Application 
+>>>>>>> 69d5e84f2778cdc6be5353125c883b46bcbac031
+# ShoppingCartApp1
