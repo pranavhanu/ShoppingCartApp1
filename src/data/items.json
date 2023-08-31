@@ -22,5 +22,17 @@
     "name": "Car",
     "price": 3000000,
     "imgUrl": "/images/car1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sofa",
+    "price": 25999,
+    "imgUrl": "/images/sofa.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bicycle",
+    "price": 19000,
+    "imgUrl": "/images/bicycle.jpg"
   }
 ]
